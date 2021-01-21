@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Storage</string>
+    <string name="nome_produto">Nome do produto</string>
+    <string name="qtd_produto">Quantidade</string>
+    <string name="prec_produto">Preço</string>
+    <string name="salvar">SALVAR</string>
+    <string name="delete">DELETAR</string>
+    <string name="update">UPDATE</string>
 </resources>
